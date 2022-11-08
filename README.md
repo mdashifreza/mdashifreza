@@ -59,13 +59,14 @@ Project Name : Spark | Cryptocurrency Dashboard: <a href="https://github.com/R-h
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://avatars3.githubusercontent.com/u/10342521?v=3&s=200" title="Chartjs" alt="Chartjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://camo.githubusercontent.com/272811d860f3fab0dd8ff0690e2ca36afbf0c96ad44100b8d42dfdce8511679b/68747470733a2f2f6178696f732d687474702e636f6d2f6173736574732f6c6f676f2e737667"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/a1d0f0bc93f0ef2cc212cc647a3770c6264cc56eb87d70bb89ed76cea1d31fc6/68747470733a2f2f72656163742d63686172746a732d322e6a732e6f72672f696d672f6c6f676f2e737667" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/9da41c4764939667ec67203eca59eedafa8e23af52e6f03b2e059fb17a6fdcf4/68747470733a2f2f7374617469632e636f696e6765636b6f2e636f6d2f732f68616c6c6f7765656e323032325f6c696768746d6f64652d316366306436333234653039376137653138363835383136636430656531303038383534343633303565636438636132343639383134333532393933646435372e706e67" title="Spring" alt="Spring" width="70" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/9da41c4764939667ec67203eca59eedafa8e23af52e6f03b2e059fb17a6fdcf4/68747470733a2f2f7374617469632e636f696e6765636b6f2e636f6d2f732f68616c6c6f7765656e323032325f6c696768746d6f64652d316366306436333234653039376137653138363835383136636430656531303038383534343633303565636438636132343639383134333532393933646435372e706e67" title="Spring" alt="Spring" width="90" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
