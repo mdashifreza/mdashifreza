@@ -71,11 +71,11 @@ Project Name : Spark | Cryptocurrency Dashboard: <a href="https://github.com/R-h
 </div>
 
 ## Team Collaborators
-- Item Md Ashif Reza
-- Item Ritu Verma
-- Item Saad Ansari
-- Item Kaustubh Sule
-- Item Parvez Amhed Ansari
+- Md Ashif Reza
+- Ritu Verma
+- Saad Ansari
+- Kaustubh Sule
+- Parvez Amhed Ansari
 <div id="components align="center">
 <h1>Project Components:</h1>
 
