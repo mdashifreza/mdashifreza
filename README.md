@@ -32,7 +32,7 @@ Clone the repository on your local machine with the command below in your termin
 ## Commands:
 Clone:
 ```bash
-  git clone https://github.com/R-holmes10/crypto-dashboard#readme
+  git clone https://github.com/mdashifreza/mdashifreza.git
 ```
 Move to Directory:
 ```bash
