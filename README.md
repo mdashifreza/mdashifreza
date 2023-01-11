@@ -53,7 +53,7 @@ Start The App By:
 Open http://localhost:3000 to view it in your browser.
 
 ## Project Description
-Project Name : Spark | Cryptocurrency Dashboard: <a href="https://github.com/R-holmes10/crypto-dashboard#readme">Live here<a/>
+Project Name : Spark | Cryptocurrency Dashboard: <a href="https://spark-cryptocurrency-dashboard.onrender.com/">Live here<a/>
 ## Languages and Tools used:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
